@@ -6,4 +6,7 @@ a,b=5,6#5到a，6到b
 print(a,b)
 a=5
 b=10
+temp2=b
+b=temp1
+a=temp2
 print(a,b)
