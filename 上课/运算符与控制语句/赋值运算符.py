@@ -10,4 +10,4 @@ b=10
 temp2=b
 b=temp1
 a=temp2
-print(a,b)
+print('a:',a,'       ','b:',b)
