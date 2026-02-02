@@ -5,6 +5,7 @@ print(name)
 a,b=5,6#5到a，6到b
 print(a,b)
 a=5
+temp1=a
 b=10
 temp2=b
 b=temp1
