@@ -1,0 +1,5 @@
+a=(20,40,50,10)
+c=len(a)
+print(c)
+print(len(a))
+print(sum(a))

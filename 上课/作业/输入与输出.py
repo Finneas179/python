@@ -1,0 +1,6 @@
+name = input("please input your name:")
+age = input("please input your age:")
+gender = input("please input your gender:")
+hobby = input("please input your hobby:")
+professial_information = input("please input your professial information:")
+print(name,age,gender,hobby,professial_information)

@@ -1,0 +1,16 @@
+/*
+        添加背景颜色
+ */
+body{
+    background-color: #ff405c;
+}
+.d1{
+    background-color: #418228;
+    width: 400px;
+    height: 200px;
+}
+#d2{
+    background-color: #822872;
+    width: 400px;
+    height: 200px;
+}
